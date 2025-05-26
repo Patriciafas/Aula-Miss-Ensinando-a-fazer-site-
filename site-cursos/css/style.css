@@ -1,0 +1,55 @@
+.bg-menu{
+    background-color: #073b59;
+}
+.navbar-nav li a{
+    color: #FFF !important;
+    border-bottom: 4px solid #073b59;
+}
+.navbar-nav li a:hover{
+    color: #FFF !important;
+    border-bottom: 4px solid #fe5000cc;
+}
+.navbar-nav li{
+    padding: 0 20px;
+}
+.navbar-nav li{
+    padding: 0 20px;
+}
+
+.dropdown-menu{
+    background-color: #073b59 !important;
+}
+
+.dropdown-menu li a:hover{
+    background-color: #fe5000cc;
+}
+
+.btn-unipam{
+    color: white !important;
+    background-color: #fe5000cc !important;
+}
+
+.btn-unipam:houver{
+    color: white !important;
+    background-color: #073b59 !important;
+    border: 1px solid white !important;
+}
+.espacamento{
+    margin: 60px 0px !important;
+}
+
+/*estilo card*/
+.bg-card{
+    background-color: #073b59 !important;
+    color: #FFF !important;
+
+}
+.btn-card{
+    color: #FFF !important;
+    background-color:#073b59 !important;
+    border: 1px solid #FFF !important;
+}
+.btn-card:houver{
+    color:#073b59 !important;
+    background-color: #FFF !important;
+}
